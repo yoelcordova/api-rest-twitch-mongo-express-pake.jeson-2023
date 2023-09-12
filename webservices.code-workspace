@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../xampp/htdocs/TRABAJOS PROF VICTOR/webservices"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/TRABAJOS PROF VICTOR/css"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/TRABAJOS PROF VICTOR/css-html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
